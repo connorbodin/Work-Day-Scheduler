@@ -39,3 +39,5 @@ Git clone and open index.html as a live server
 ## Contributors
 
 - Michael Smith
+- Study Groups
+- Tutoring sessions
