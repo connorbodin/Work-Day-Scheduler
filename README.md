@@ -14,7 +14,8 @@
 
 
 ## General Info
-A tech blog application that allows you to comment on posts. Still working on the delete functionality.
+- A work day scheduler that uses JQUERY to change the attributes of certain HTML objects based on time. 
+
 ## Software Used 
 
 - HTML
